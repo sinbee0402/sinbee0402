@@ -35,6 +35,8 @@ Attending to Gwangju Software Meister High School - 3rd grade.<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinbee0402&layout=compact)](https://github.com/sinbee0402/github-readme-stats)
 
+<br>
+
 📌Note: When I see a code that looks interesting, I sometimes make it even if it's not my language.
 
 > 특이사항: 재밌어보이는 코드을 보면, 제가 주로 쓰는 언어가 아니더라도 만들어봅니다.
