@@ -1,4 +1,4 @@
-## ✨Oh SinBi
+## ✨Oh SinBi 
 
 👋 Hi! I'm **mobile app Developer** using Android. <br>
 Attending to Gwangju Software Meister High School - 3rd grade.
@@ -27,3 +27,7 @@ Attending to Gwangju Software Meister High School - 3rd grade.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinbee0402&theme=vue&show_icons=true)
