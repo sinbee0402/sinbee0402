@@ -11,7 +11,7 @@ Attending to Gwangju Software Meister High School - 3rd grade.<br>
 >  저는 독서, 노래, 산책을 즐깁니다.
   
 <br>
-<a href="https://sinbee0402.notion.site/sinbee0402/d6c17027fe1e40978fb7453af9492589" target="_blank"><img src="https://img.shields.io/badge/Notion-494649?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://sinbee0402.notion.site/77f830be47d84f6fa5c5a400b5e81ecf" target="_blank"><img src="https://img.shields.io/badge/Notion-494649?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://velog.io/@sinbee0402" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="mailto:osb3476@gmail.com" target="_blank"><img src="https://img.shields.io/badge/osb3476@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <br>
