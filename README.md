@@ -4,7 +4,7 @@
 Attending to Gwangju Software Meister High School - 3rd grade.<br>
 
 >  안녕하세요! 저는 안드로이드 모바일 앱 개발자입니다. <br>
->  현재 광주소프트웨어마이스터고등학교 3학년에 재학 중 입니다. <br>
+>  광주소프트웨어마이스터고등학교를 졸업하고 취업을 준비하고 있습니다. <br>
 
 😎 I enjoy reading, singing, and taking a walk.📚 🎵 <br>
 
