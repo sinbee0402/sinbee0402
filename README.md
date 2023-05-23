@@ -1,7 +1,7 @@
 ## ✨Oh SinBi 
 
 👋 Hi! I'm **mobile app Developer** using **Android**. <br>
-Attending to Gwangju Software Meister High School - 3rd grade.<br>
+I graduated from Gwangju Software Meister High School and am preparing for a job.<br>
 
 >  안녕하세요! 저는 안드로이드 모바일 앱 개발자입니다. <br>
 >  광주소프트웨어마이스터고등학교를 졸업하고 취업을 준비하고 있습니다. <br>
